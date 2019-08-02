@@ -17,7 +17,7 @@ Or download the repository [here](https://github.com/dj0nny/throwback-web-develo
 
 ## Running
 
-You can open the `.html` using your browser. If you use VS Code you can install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
+You can open the `.html` files using your browser. If you use VS Code you can install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension.
 
 ## Contributing
 
